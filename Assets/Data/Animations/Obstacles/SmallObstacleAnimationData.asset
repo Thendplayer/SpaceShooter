@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 153400afc8184611a6696fc4f4258085, type: 3}
+  m_Name: SmallObstacleAnimationData
+  m_EditorClassIdentifier: 
+  _orderInLayer: 1
+  _frames:
+  - {fileID: 8532530834072262524, guid: 363c6940281d9409e8ac42244d23074e, type: 3}
+  _frameRate: 0
+  _loop: 1
+  _scale: 1

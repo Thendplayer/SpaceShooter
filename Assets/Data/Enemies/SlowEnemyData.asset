@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96b260a984cb4aabb93883de97861294, type: 3}
+  m_Name: SlowEnemyData
+  m_EditorClassIdentifier: 
+  _animation: {fileID: 11400000, guid: 9758cc251a86c4405bc74aeb13bd6eca, type: 2}
+  _velocity: 0
+  _collisionRadius: 0.3
+  _score: 20
+  _lives: 8
+  _powerUpDrop: {fileID: 11400000, guid: 423be3368be7142cf9f6ffdfbbfcaca4, type: 2}
+  _powerUpDropProvability: 10
+  _animationOnDispose: {fileID: 11400000, guid: 5394fcbe4efa6431bb8be4d1f1015d51, type: 2}
+  _recoil: 5
+  bullet: {fileID: 11400000, guid: 6ad602e5cfea9449f966920e633492bc, type: 2}

@@ -1,0 +1,18 @@
+{
+    "name": "Flow.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:53ab66f1047ca4be7a74c61c5d079954"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

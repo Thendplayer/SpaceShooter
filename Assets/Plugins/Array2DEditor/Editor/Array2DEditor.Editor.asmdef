@@ -1,0 +1,18 @@
+{
+    "name": "Array2DEditor.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:88caa28d519614910b133a231ad34769"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

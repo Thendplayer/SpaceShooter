@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ec29d70f59a43068f02fa6290497f1c, type: 3}
+  m_Name: GreenShipData
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: 7529830296168463091, guid: 363c6940281d9409e8ac42244d23074e, type: 3}
+  _collisionRadius: 0.2
+  _recoil: 0.75
+  _bullet: {fileID: 11400000, guid: 5da6fdd1f20744c8eb941af3e2d35f72, type: 2}
+  _damageAnimation: {fileID: 11400000, guid: 26c540c36615a46a4a33e18938d7ac7e, type: 2}

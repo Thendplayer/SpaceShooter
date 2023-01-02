@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 153400afc8184611a6696fc4f4258085, type: 3}
+  m_Name: SlowBulletAnimationData
+  m_EditorClassIdentifier: 
+  _orderInLayer: 2
+  _frames:
+  - {fileID: 1124504117087745731, guid: a697fbdae7acc47a7aecbb5af8f9f702, type: 3}
+  - {fileID: -8246000305010894339, guid: a697fbdae7acc47a7aecbb5af8f9f702, type: 3}
+  - {fileID: -1374654394901037455, guid: a697fbdae7acc47a7aecbb5af8f9f702, type: 3}
+  - {fileID: 7067949296797380206, guid: a697fbdae7acc47a7aecbb5af8f9f702, type: 3}
+  _frameRate: 15
+  _loop: 1
+  _scale: 0.75
