@@ -1,7 +1,7 @@
-using Objects;
+using SpaceShooter.Objects;
 using UnityEngine;
 
-namespace Core.Animation
+namespace SpaceShooter.Core.Animation
 {
     [CreateAssetMenu(menuName = "Create Data/Animation", fileName = "AnimationData")]
     public class AnimationData : ObjectData

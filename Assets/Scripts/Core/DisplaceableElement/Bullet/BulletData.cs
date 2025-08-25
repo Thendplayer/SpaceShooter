@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Core.DisplaceableElement.Bullet
+namespace SpaceShooter.Core.DisplaceableElement.Bullet
 {
     [CreateAssetMenu(menuName = "Create Data/Bullet", fileName = "BulletData")]
     public class BulletData : DisplaceableElementData

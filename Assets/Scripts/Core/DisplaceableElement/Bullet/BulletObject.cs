@@ -1,8 +1,8 @@
-using Core.DisplaceableElement.Bullet;
-using Flow;
-using Objects;
+using SpaceShooter.Core.DisplaceableElement.Bullet;
+using SpaceShooter.Flow;
+using SpaceShooter.Objects;
 
-namespace Core.DisplaceableElement
+namespace SpaceShooter.Core.DisplaceableElement
 {
     public class BulletObject : DisplaceableElementObject
     {

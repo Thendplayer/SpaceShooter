@@ -1,6 +1,6 @@
-using Objects;
+using SpaceShooter.Objects;
 
-namespace Core.Level
+namespace SpaceShooter.Core.Level
 {
     public class LevelModel : ObjectModel
     {

@@ -1,8 +1,8 @@
-using Core.Animation;
-using Core.DisplaceableElement.PowerUp;
+using SpaceShooter.Core.Animation;
+using SpaceShooter.Core.DisplaceableElement.PowerUp;
 using UnityEngine;
 
-namespace Core.DisplaceableElement.Obstacle
+namespace SpaceShooter.Core.DisplaceableElement.Obstacle
 {
     [CreateAssetMenu(menuName = "Create Data/Obstacle", fileName = "ObstacleData")]
     public class ObstacleData : DisplaceableElementData

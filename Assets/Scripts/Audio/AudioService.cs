@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Audio
+namespace SpaceShooter.Audio
 {
     [RequireComponent(typeof(AudioSource))]
     public class AudioService : MonoBehaviour

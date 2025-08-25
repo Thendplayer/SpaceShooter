@@ -1,9 +1,9 @@
 using Array2DEditor;
-using Core.DisplaceableElement.Obstacle.Enemy;
-using Core.Level;
+using SpaceShooter.Core.DisplaceableElement.Obstacle.Enemy;
+using SpaceShooter.Core.Level;
 using UnityEditor;
 
-namespace Core.Editor
+namespace SpaceShooter.Core.Editor
 {
     [CustomPropertyDrawer(typeof(Array2DEnemy))]
     public class Array2DEnemyDrawer : Array2DObjectDrawer<EnemyData> { }

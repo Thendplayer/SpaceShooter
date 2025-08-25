@@ -1,12 +1,12 @@
-using Core.DisplaceableElement.PowerUp;
-using Core.Events;
-using Events;
-using Flow;
-using Objects;
-using ServiceRegister;
+using SpaceShooter.Core.DisplaceableElement.PowerUp;
+using SpaceShooter.Core.Events;
+using SpaceShooter.Events;
+using SpaceShooter.Flow;
+using SpaceShooter.Objects;
+using SpaceShooter.ServiceRegister;
 using UnityEngine;
 
-namespace Core.Level
+namespace SpaceShooter.Core.Level
 {
     public class LevelMediator : ObjectMediator, IUpdatable
     {

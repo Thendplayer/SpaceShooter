@@ -1,7 +1,7 @@
-using Flow;
+using SpaceShooter.Flow;
 using UnityEngine;
 
-namespace Core.DisplaceableElement.PowerUp
+namespace SpaceShooter.Core.DisplaceableElement.PowerUp
 {
     public class PowerUpView : DisplaceableElementView
     {

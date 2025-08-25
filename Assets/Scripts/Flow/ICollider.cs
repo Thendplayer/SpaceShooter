@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Flow
+namespace SpaceShooter.Flow
 {
     public interface ICollider
     {

@@ -1,7 +1,7 @@
-using Objects;
+using SpaceShooter.Objects;
 using UnityEngine;
 
-namespace Core.Level
+namespace SpaceShooter.Core.Level
 {
     public class LevelRepository : MonoBehaviour
     {

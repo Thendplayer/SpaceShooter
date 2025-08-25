@@ -1,6 +1,6 @@
 using System;
 
-namespace Objects
+namespace SpaceShooter.Objects
 {
     public abstract class ObjectMediator
     {

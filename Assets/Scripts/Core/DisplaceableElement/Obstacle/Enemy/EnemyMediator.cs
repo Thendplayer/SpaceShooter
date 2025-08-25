@@ -1,4 +1,4 @@
-namespace Core.DisplaceableElement.Obstacle.Enemy
+namespace SpaceShooter.Core.DisplaceableElement.Obstacle.Enemy
 {
     public class EnemyMediator : ObstacleMediator
     {

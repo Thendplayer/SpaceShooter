@@ -1,6 +1,6 @@
-using Objects;
+using SpaceShooter.Objects;
 
-namespace Core.DisplaceableElement
+namespace SpaceShooter.Core.DisplaceableElement
 {
     public abstract class DisplaceableElementObject : ObjectRepresentation
     {

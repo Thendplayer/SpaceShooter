@@ -1,7 +1,7 @@
-using Objects;
+using SpaceShooter.Objects;
 using UnityEngine;
 
-namespace Core.DisplaceableElement.Obstacle
+namespace SpaceShooter.Core.DisplaceableElement.Obstacle
 {
     public class ObstacleRepository : MonoBehaviour
     {

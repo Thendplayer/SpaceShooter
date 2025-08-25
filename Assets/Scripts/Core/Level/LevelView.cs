@@ -1,13 +1,13 @@
 using System;
 using System.Collections;
-using Core.DisplaceableElement.Obstacle;
-using Core.DisplaceableElement.Obstacle.Enemy;
-using Objects;
-using ServiceRegister;
+using SpaceShooter.Core.DisplaceableElement.Obstacle;
+using SpaceShooter.Core.DisplaceableElement.Obstacle.Enemy;
+using SpaceShooter.Objects;
+using SpaceShooter.ServiceRegister;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
-namespace Core.Level
+namespace SpaceShooter.Core.Level
 {
     public class LevelView : ObjectView
     {

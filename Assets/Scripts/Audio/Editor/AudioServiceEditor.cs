@@ -3,7 +3,7 @@ using System.IO;
 using UnityEditor;
 using UnityEngine;
 
-namespace Audio.Editor
+namespace SpaceShooter.Audio.Editor
 {
     [CustomEditor(typeof(AudioService))]
     public class AudioServiceEditor : UnityEditor.Editor
@@ -20,7 +20,7 @@ namespace Audio.Editor
 
             using (var file = File.CreateText($"{ENUM_PATH}{ENUM_NAME}.cs"))
             {
-                file.WriteLine("namespace " + nameof(Audio) + " \n{");
+                file.WriteLine("namespace SpaceShooter.Audio \n{");
                 file.WriteLine("    public enum " + ENUM_NAME + " \n\t{");
                 
                 var i = 0;

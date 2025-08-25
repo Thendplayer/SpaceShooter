@@ -1,8 +1,8 @@
-using Core.Animation;
-using Objects;
+using SpaceShooter.Core.Animation;
+using SpaceShooter.Objects;
 using UnityEngine;
 
-namespace Core.DisplaceableElement
+namespace SpaceShooter.Core.DisplaceableElement
 {
     [CreateAssetMenu(menuName = "Create Data/Displaceable Element", fileName = "DisplaceableElementData")]
     public class DisplaceableElementData : ObjectData

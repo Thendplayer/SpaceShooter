@@ -1,6 +1,6 @@
-using Objects;
+using SpaceShooter.Objects;
 
-namespace Core.Match
+namespace SpaceShooter.Core.Match
 {
     public class MatchObject : ObjectRepresentation
     {

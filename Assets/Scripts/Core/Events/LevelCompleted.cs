@@ -1,6 +1,6 @@
-using Events;
+using SpaceShooter.Events;
 
-namespace Core.Events
+namespace SpaceShooter.Core.Events
 {
     public class LevelCompleted : IBaseEvent
     {

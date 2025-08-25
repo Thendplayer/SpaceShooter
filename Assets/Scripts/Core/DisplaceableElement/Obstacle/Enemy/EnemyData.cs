@@ -1,7 +1,7 @@
-using Core.DisplaceableElement.Bullet;
+using SpaceShooter.Core.DisplaceableElement.Bullet;
 using UnityEngine;
 
-namespace Core.DisplaceableElement.Obstacle.Enemy
+namespace SpaceShooter.Core.DisplaceableElement.Obstacle.Enemy
 {
     [CreateAssetMenu(menuName = "Create Data/Enemy", fileName = "EnemyData")]
     public class EnemyData : ObstacleData

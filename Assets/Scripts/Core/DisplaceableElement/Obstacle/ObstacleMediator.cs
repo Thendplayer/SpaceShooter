@@ -1,11 +1,11 @@
-using Core.Animation;
-using Core.Events;
-using Events;
-using Flow;
-using ServiceRegister;
+using SpaceShooter.Core.Animation;
+using SpaceShooter.Core.Events;
+using SpaceShooter.Events;
+using SpaceShooter.Flow;
+using SpaceShooter.ServiceRegister;
 using UnityEngine;
 
-namespace Core.DisplaceableElement.Obstacle
+namespace SpaceShooter.Core.DisplaceableElement.Obstacle
 {
     public class ObstacleMediator : DisplaceableElementMediator, IUpdatable
     {

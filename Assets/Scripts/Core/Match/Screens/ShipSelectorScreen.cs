@@ -1,9 +1,9 @@
 using System;
-using Core.Match.Screens.Buttons;
+using SpaceShooter.Core.Match.Screens.Buttons;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Core.Match.Screens
+namespace SpaceShooter.Core.Match.Screens
 {
     public class ShipSelectorScreen : MonoBehaviour
     {

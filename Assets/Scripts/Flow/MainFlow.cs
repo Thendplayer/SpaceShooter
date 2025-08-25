@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Flow
+namespace SpaceShooter.Flow
 {
     public class MainFlow : MonoBehaviour
     {

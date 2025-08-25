@@ -1,10 +1,10 @@
 using System;
-using Core.DisplaceableElement.Obstacle;
-using Objects;
+using SpaceShooter.Core.DisplaceableElement.Obstacle;
+using SpaceShooter.Objects;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
-namespace Core.Level
+namespace SpaceShooter.Core.Level
 {
     [CreateAssetMenu(menuName = "Create Data/Level", fileName = "LevelData")]
     public class LevelData : ObjectData

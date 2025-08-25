@@ -1,4 +1,4 @@
-namespace Audio 
+namespace SpaceShooter.Audio 
 {
     public enum AudioTrack 
 	{

@@ -1,7 +1,7 @@
-using Flow;
-using Objects;
+using SpaceShooter.Flow;
+using SpaceShooter.Objects;
 
-namespace Core.Level
+namespace SpaceShooter.Core.Level
 {
     public class LevelObject : ObjectRepresentation
     {

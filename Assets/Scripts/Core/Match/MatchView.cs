@@ -1,11 +1,11 @@
 using System;
-using Audio;
-using Core.Match.Screens;
-using Objects;
-using ServiceRegister;
+using SpaceShooter.Audio;
+using SpaceShooter.Core.Match.Screens;
+using SpaceShooter.Objects;
+using SpaceShooter.ServiceRegister;
 using UnityEngine;
 
-namespace Core.Match
+namespace SpaceShooter.Core.Match
 {
     public class MatchView : ObjectView
     {

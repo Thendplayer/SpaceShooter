@@ -1,9 +1,9 @@
 using System;
-using Flow;
-using Objects;
+using SpaceShooter.Flow;
+using SpaceShooter.Objects;
 using UnityEngine;
 
-namespace Core.Animation
+namespace SpaceShooter.Core.Animation
 {
     public class AnimationView : ObjectView, IUpdatable
     {

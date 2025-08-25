@@ -1,9 +1,9 @@
 using System;
 using Array2DEditor;
-using Core.DisplaceableElement.Obstacle.Enemy;
+using SpaceShooter.Core.DisplaceableElement.Obstacle.Enemy;
 using UnityEngine;
 
-namespace Core.Level
+namespace SpaceShooter.Core.Level
 {
     [Serializable]
     public class Array2DEnemy : Array2D<EnemyData>

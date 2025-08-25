@@ -1,7 +1,7 @@
-using Objects;
+using SpaceShooter.Objects;
 using UnityEngine;
 
-namespace Core.Animation
+namespace SpaceShooter.Core.Animation
 {
     public class AnimationRepository : MonoBehaviour
     {

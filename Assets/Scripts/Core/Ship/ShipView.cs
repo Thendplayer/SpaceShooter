@@ -1,13 +1,13 @@
 using System;
-using Audio;
-using Core.DisplaceableElement.Bullet;
-using Flow;
-using Objects;
-using ServiceRegister;
+using SpaceShooter.Audio;
+using SpaceShooter.Core.DisplaceableElement.Bullet;
+using SpaceShooter.Flow;
+using SpaceShooter.Objects;
+using SpaceShooter.ServiceRegister;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-namespace Core.Ship
+namespace SpaceShooter.Core.Ship
 {
     public class ShipView : ObjectView, ICollider
     {

@@ -1,7 +1,7 @@
-using Flow;
-using Objects;
+using SpaceShooter.Flow;
+using SpaceShooter.Objects;
 
-namespace Core.Ship
+namespace SpaceShooter.Core.Ship
 {
     public class ShipObject : ObjectRepresentation
     {

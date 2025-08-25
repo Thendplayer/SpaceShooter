@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Events
+namespace SpaceShooter.Events
 {
     public class EventDispatcher : IEventDispatcher
     {

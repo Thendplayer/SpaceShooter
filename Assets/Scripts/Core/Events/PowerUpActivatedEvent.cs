@@ -1,7 +1,7 @@
-using Core.DisplaceableElement.PowerUp;
-using Events;
+using SpaceShooter.Core.DisplaceableElement.PowerUp;
+using SpaceShooter.Events;
 
-namespace Core.Events
+namespace SpaceShooter.Core.Events
 {
     public class PowerUpActivatedEvent : IBaseEvent
     {

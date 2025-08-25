@@ -1,7 +1,7 @@
-using Objects;
+using SpaceShooter.Objects;
 using UnityEngine;
 
-namespace Core.DisplaceableElement.Obstacle.Enemy
+namespace SpaceShooter.Core.DisplaceableElement.Obstacle.Enemy
 {
     public class EnemyRepository : MonoBehaviour
     {

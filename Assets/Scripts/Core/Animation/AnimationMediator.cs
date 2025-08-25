@@ -1,8 +1,8 @@
 using System.Collections.Generic;
-using Objects;
+using SpaceShooter.Objects;
 using UnityEngine;
 
-namespace Core.Animation
+namespace SpaceShooter.Core.Animation
 {
     public class AnimationMediator : ObjectMediator
     {

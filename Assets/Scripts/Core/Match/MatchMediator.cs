@@ -1,16 +1,16 @@
 using System.Linq;
-using Audio;
-using Core.DisplaceableElement.PowerUp;
-using Core.Events;
-using Core.Level;
-using Core.Ship;
-using Events;
-using Flow;
-using Objects;
-using ServiceRegister;
+using SpaceShooter.Audio;
+using SpaceShooter.Core.DisplaceableElement.PowerUp;
+using SpaceShooter.Core.Events;
+using SpaceShooter.Core.Level;
+using SpaceShooter.Core.Ship;
+using SpaceShooter.Events;
+using SpaceShooter.Flow;
+using SpaceShooter.Objects;
+using SpaceShooter.ServiceRegister;
 using UnityEngine;
 
-namespace Core.Match
+namespace SpaceShooter.Core.Match
 {
     public class MatchMediator : ObjectMediator
     {

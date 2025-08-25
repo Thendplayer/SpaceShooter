@@ -1,7 +1,7 @@
-using Core.Animation;
+using SpaceShooter.Core.Animation;
 using UnityEngine;
 
-namespace Core.DisplaceableElement.PowerUp
+namespace SpaceShooter.Core.DisplaceableElement.PowerUp
 {
     [CreateAssetMenu(menuName = "Create Data/PowerUp", fileName = "PowerUpData")]
     public class PowerUpData : DisplaceableElementData

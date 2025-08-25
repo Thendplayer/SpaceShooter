@@ -1,7 +1,7 @@
-using Flow;
-using Objects;
+using SpaceShooter.Flow;
+using SpaceShooter.Objects;
 
-namespace Core.DisplaceableElement.PowerUp
+namespace SpaceShooter.Core.DisplaceableElement.PowerUp
 {
     public class PowerUpObject : DisplaceableElementObject
     {

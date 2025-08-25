@@ -1,7 +1,7 @@
-using Flow;
-using Objects;
+using SpaceShooter.Flow;
+using SpaceShooter.Objects;
 
-namespace Core.DisplaceableElement.Obstacle.Enemy
+namespace SpaceShooter.Core.DisplaceableElement.Obstacle.Enemy
 {
     public class EnemyObject : DisplaceableElementObject
     {

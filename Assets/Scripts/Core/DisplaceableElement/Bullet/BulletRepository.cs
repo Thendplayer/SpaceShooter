@@ -1,7 +1,7 @@
-using Objects;
+using SpaceShooter.Objects;
 using UnityEngine;
 
-namespace Core.DisplaceableElement.Bullet
+namespace SpaceShooter.Core.DisplaceableElement.Bullet
 {
     public class BulletRepository : MonoBehaviour
     {

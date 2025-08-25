@@ -1,10 +1,10 @@
-using Core.DisplaceableElement.Bullet;
-using Core.Level;
-using Flow;
-using ServiceRegister;
+using SpaceShooter.Core.DisplaceableElement.Bullet;
+using SpaceShooter.Core.Level;
+using SpaceShooter.Flow;
+using SpaceShooter.ServiceRegister;
 using UnityEngine;
 
-namespace Core.DisplaceableElement.Obstacle.Enemy
+namespace SpaceShooter.Core.DisplaceableElement.Obstacle.Enemy
 {
     public class EnemyView : ObstacleView
     {

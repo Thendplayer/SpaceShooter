@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine.Assertions;
 
-namespace ServiceRegister
+namespace SpaceShooter.ServiceRegister
 {
     public class ServiceLocator
     {

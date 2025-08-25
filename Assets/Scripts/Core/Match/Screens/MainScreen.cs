@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Core.Match.Screens
+namespace SpaceShooter.Core.Match.Screens
 {
     public class MainScreen : MonoBehaviour
     {

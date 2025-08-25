@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Objects
+namespace SpaceShooter.Objects
 {
     public static class ObjectFactory
     {

@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace Flow.Editor
+namespace SpaceShooter.Flow.Editor
 {
     [CustomPropertyDrawer(typeof(LayerAttribute))]
     public class LayerAttributeDrawer : PropertyDrawer

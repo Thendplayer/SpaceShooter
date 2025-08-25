@@ -1,9 +1,9 @@
-using Core.DisplaceableElement.PowerUp;
-using Flow;
-using ServiceRegister;
+using SpaceShooter.Core.DisplaceableElement.PowerUp;
+using SpaceShooter.Flow;
+using SpaceShooter.ServiceRegister;
 using UnityEngine;
 
-namespace Core.DisplaceableElement.Obstacle
+namespace SpaceShooter.Core.DisplaceableElement.Obstacle
 {
     public class ObstacleView : DisplaceableElementView
     {

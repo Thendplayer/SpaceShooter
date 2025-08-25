@@ -1,19 +1,19 @@
 using System.Collections.Generic;
-using Audio;
-using Core.Animation;
-using Core.DisplaceableElement.Bullet;
-using Core.DisplaceableElement.Obstacle;
-using Core.DisplaceableElement.Obstacle.Enemy;
-using Core.DisplaceableElement.PowerUp;
-using Core.Level;
-using Core.Match;
-using Core.Ship;
-using Events;
-using Objects;
-using ServiceRegister;
+using SpaceShooter.Audio;
+using SpaceShooter.Core.Animation;
+using SpaceShooter.Core.DisplaceableElement.Bullet;
+using SpaceShooter.Core.DisplaceableElement.Obstacle;
+using SpaceShooter.Core.DisplaceableElement.Obstacle.Enemy;
+using SpaceShooter.Core.DisplaceableElement.PowerUp;
+using SpaceShooter.Core.Level;
+using SpaceShooter.Core.Match;
+using SpaceShooter.Core.Ship;
+using SpaceShooter.Events;
+using SpaceShooter.Objects;
+using SpaceShooter.ServiceRegister;
 using UnityEngine;
 
-namespace Core
+namespace SpaceShooter.Core
 {
     public class GameInstaller : MonoBehaviour
     {

@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UI;
 
-namespace Core.Match.Screens.Buttons
+namespace SpaceShooter.Core.Match.Screens.Buttons
 {
     public class LevelButton : MonoBehaviour
     {

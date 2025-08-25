@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Core.Level
+namespace SpaceShooter.Core.Level
 {
     public class Path : MonoBehaviour
     {

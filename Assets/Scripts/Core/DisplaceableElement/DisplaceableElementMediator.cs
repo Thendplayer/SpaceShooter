@@ -1,10 +1,10 @@
-using Core.Animation;
-using Core.Events;
-using Events;
-using Objects;
-using ServiceRegister;
+using SpaceShooter.Core.Animation;
+using SpaceShooter.Core.Events;
+using SpaceShooter.Events;
+using SpaceShooter.Objects;
+using SpaceShooter.ServiceRegister;
 
-namespace Core.DisplaceableElement
+namespace SpaceShooter.Core.DisplaceableElement
 {
     public class DisplaceableElementMediator : ObjectMediator
     {

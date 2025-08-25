@@ -1,7 +1,7 @@
-using Core.DisplaceableElement.Bullet;
-using Objects;
+using SpaceShooter.Core.DisplaceableElement.Bullet;
+using SpaceShooter.Objects;
 
-namespace Core.DisplaceableElement.Obstacle.Enemy
+namespace SpaceShooter.Core.DisplaceableElement.Obstacle.Enemy
 {
     public class EnemyModel : ObstacleModel
     {

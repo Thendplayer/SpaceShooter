@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace Flow
+namespace SpaceShooter.Flow
 {
     [CreateAssetMenu(menuName = "Collision Matrix", fileName = "CollisionMatrix", order = 0)]
     public class CollisionMatrix : ScriptableObject 

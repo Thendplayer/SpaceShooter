@@ -1,11 +1,11 @@
 using System;
-using Core.Animation;
-using Flow;
-using Objects;
-using ServiceRegister;
+using SpaceShooter.Core.Animation;
+using SpaceShooter.Flow;
+using SpaceShooter.Objects;
+using SpaceShooter.ServiceRegister;
 using UnityEngine;
 
-namespace Core.DisplaceableElement
+namespace SpaceShooter.Core.DisplaceableElement
 {
     public abstract class DisplaceableElementView : ObjectView, ICollider
     {

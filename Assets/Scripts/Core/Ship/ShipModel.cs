@@ -1,9 +1,9 @@
-using Core.Animation;
-using Core.DisplaceableElement.Bullet;
-using Objects;
+using SpaceShooter.Core.Animation;
+using SpaceShooter.Core.DisplaceableElement.Bullet;
+using SpaceShooter.Objects;
 using UnityEngine;
 
-namespace Core.Ship
+namespace SpaceShooter.Core.Ship
 {
     public class ShipModel : ObjectModel
     {

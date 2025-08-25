@@ -1,6 +1,6 @@
 using System;
 
-namespace Events
+namespace SpaceShooter.Events
 {
     public interface IEventDispatcher
     {

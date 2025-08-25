@@ -1,10 +1,10 @@
-using Core.Animation;
-using Core.Events;
-using Events;
-using Flow;
-using ServiceRegister;
+using SpaceShooter.Core.Animation;
+using SpaceShooter.Core.Events;
+using SpaceShooter.Events;
+using SpaceShooter.Flow;
+using SpaceShooter.ServiceRegister;
 
-namespace Core.DisplaceableElement.PowerUp
+namespace SpaceShooter.Core.DisplaceableElement.PowerUp
 {
     public class PowerUpMediator : DisplaceableElementMediator, IUpdatable
     {

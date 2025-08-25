@@ -1,6 +1,6 @@
-using Flow;
+using SpaceShooter.Flow;
 
-namespace Core.DisplaceableElement.Bullet
+namespace SpaceShooter.Core.DisplaceableElement.Bullet
 {
     public class BulletMediator : DisplaceableElementMediator, IUpdatable
     {

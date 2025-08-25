@@ -1,7 +1,7 @@
-using Objects;
+using SpaceShooter.Objects;
 using UnityEngine;
 
-namespace Core.DisplaceableElement.PowerUp
+namespace SpaceShooter.Core.DisplaceableElement.PowerUp
 {
     public class PowerUpRepository : MonoBehaviour
     {

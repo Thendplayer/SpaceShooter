@@ -1,7 +1,7 @@
-using Core.Animation;
-using Objects;
+using SpaceShooter.Core.Animation;
+using SpaceShooter.Objects;
 
-namespace Core.DisplaceableElement.PowerUp
+namespace SpaceShooter.Core.DisplaceableElement.PowerUp
 {
     public class PowerUpModel : DisplaceableElementModel
     {

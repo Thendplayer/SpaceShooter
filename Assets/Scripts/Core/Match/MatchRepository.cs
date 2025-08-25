@@ -1,7 +1,7 @@
-using Objects;
+using SpaceShooter.Objects;
 using UnityEngine;
 
-namespace Core.Match
+namespace SpaceShooter.Core.Match
 {
     public class MatchRepository : MonoBehaviour
     {

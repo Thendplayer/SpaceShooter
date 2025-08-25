@@ -1,9 +1,9 @@
-using Core.Level;
-using Core.Ship;
-using Objects;
+using SpaceShooter.Core.Level;
+using SpaceShooter.Core.Ship;
+using SpaceShooter.Objects;
 using UnityEngine;
 
-namespace Core.Match
+namespace SpaceShooter.Core.Match
 {
     public class MatchModel : ObjectModel
     {

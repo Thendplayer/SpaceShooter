@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Objects
+namespace SpaceShooter.Objects
 {
     public abstract class ObjectData : ScriptableObject { }
 }

@@ -1,9 +1,9 @@
-using Core.Animation;
-using Core.DisplaceableElement.PowerUp;
-using Objects;
+using SpaceShooter.Core.Animation;
+using SpaceShooter.Core.DisplaceableElement.PowerUp;
+using SpaceShooter.Objects;
 using UnityEngine;
 
-namespace Core.DisplaceableElement.Obstacle
+namespace SpaceShooter.Core.DisplaceableElement.Obstacle
 {
     public class ObstacleModel : DisplaceableElementModel
     {

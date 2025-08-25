@@ -1,7 +1,7 @@
-using Core.Animation;
-using Objects;
+using SpaceShooter.Core.Animation;
+using SpaceShooter.Objects;
 
-namespace Core.DisplaceableElement
+namespace SpaceShooter.Core.DisplaceableElement
 {
     public class DisplaceableElementModel : ObjectModel
     {

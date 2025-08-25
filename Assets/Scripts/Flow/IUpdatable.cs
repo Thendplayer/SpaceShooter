@@ -1,4 +1,4 @@
-namespace Flow
+namespace SpaceShooter.Flow
 {
     public interface IUpdatable
     {

@@ -1,13 +1,13 @@
-using Audio;
-using Core.Animation;
-using Core.DisplaceableElement.PowerUp;
-using Core.Events;
-using Events;
-using Flow;
-using Objects;
-using ServiceRegister;
+using SpaceShooter.Audio;
+using SpaceShooter.Core.Animation;
+using SpaceShooter.Core.DisplaceableElement.PowerUp;
+using SpaceShooter.Core.Events;
+using SpaceShooter.Events;
+using SpaceShooter.Flow;
+using SpaceShooter.Objects;
+using SpaceShooter.ServiceRegister;
 
-namespace Core.Ship
+namespace SpaceShooter.Core.Ship
 {
     public class ShipMediator : ObjectMediator, IUpdatable
     {
