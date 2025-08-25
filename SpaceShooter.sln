@@ -3,25 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core.csproj", "{47f5942b-d28c-a864-335a-cae4a3875de5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events.csproj", "{74ac5d22-bcd0-a50a-7eeb-4c375d05df2f}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array2DEditor", "Array2DEditor.csproj", "{976e6b8b-e631-d68a-b03a-8b394837b6da}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Objects", "Objects.csproj", "{2f5a0888-0c67-ed78-a53c-dfb74035ad93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events.csproj", "{74ac5d22-bcd0-a50a-7eeb-4c375d05df2f}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceRegister", "ServiceRegister.csproj", "{860d47ef-9376-43c5-5992-e2517b626e14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Audio", "Audio.csproj", "{93206ddb-9208-3ec2-1aa8-91ff72caaf4b}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array2DEditor", "Array2DEditor.csproj", "{976e6b8b-e631-d68a-b03a-8b394837b6da}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flow", "Flow.csproj", "{a05087f0-bfd1-05a3-48ff-91d43a6e222a}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Editor", "Core.Editor.csproj", "{92fc3850-def5-9ab5-6a34-b3118cfe661d}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Audio", "Audio.csproj", "{93206ddb-9208-3ec2-1aa8-91ff72caaf4b}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array2DEditor.Editor", "Array2DEditor.Editor.csproj", "{e86acda9-bed5-1497-6c03-fcdf6062bdac}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Editor", "Core.Editor.csproj", "{92fc3850-def5-9ab5-6a34-b3118cfe661d}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flow.Editor", "Flow.Editor.csproj", "{c2542195-1122-46ed-02fe-c6797aaa43f9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Audio.Editor", "Audio.Editor.csproj", "{5ac47e2b-a1f1-39c1-4b42-c3e517acdd92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array2DEditor.Editor", "Array2DEditor.Editor.csproj", "{e86acda9-bed5-1497-6c03-fcdf6062bdac}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{3c00ea31-f91c-46d9-a919-8ac5ed6be76a}"
 EndProject
